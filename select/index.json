@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "years",
+  "base_artist": "サカナクション",
+  "createdAt": "2026-02-06T23:10:17.829919Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "All These Years",
+      "artist": "Sawyer Brown",
+      "has_synced": true,
+      "path": "select/01_All_These_Years_Sawyer_Brown.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "My Next Thirty Years",
+      "artist": "Tim McGraw",
+      "has_synced": true,
+      "path": "select/02_My_Next_Thirty_Years_Tim_McGraw.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tender Years - Single Version",
+      "artist": "George Jones",
+      "has_synced": false,
+      "path": "select/03_Tender_Years_-_Single_Version_George_Jones.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Lost Years",
+      "artist": "Stephanie Quayle",
+      "has_synced": false,
+      "path": "select/04_The_Lost_Years_Stephanie_Quayle.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Through The Years - 2006 Digital Remaster",
+      "artist": "Kenny Rogers",
+      "has_synced": true,
+      "path": "select/05_Through_The_Years_-_2006_Digital_Remaster_Kenny_Rogers.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Through The Years (Remastered 2006)",
+      "artist": "Kenny Rogers",
+      "has_synced": true,
+      "path": "select/06_Through_The_Years_(Remastered_2006)_Kenny_Rogers.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Years",
+      "artist": "John Anderson",
+      "has_synced": true,
+      "path": "select/07_Years_John_Anderson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Years Ago",
+      "artist": "The Statler Brothers",
+      "has_synced": true,
+      "path": "select/08_Years_Ago_The_Statler_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Seven Years",
+      "artist": "Norah Jones",
+      "has_synced": true,
+      "path": "select/09_Seven_Years_Norah_Jones.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Silent all these years",
+      "artist": "孫燕姿 feat. Mark",
+      "has_synced": false,
+      "path": "select/10_Silent_all_these_years_孫燕姿_feat._Mark.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Silent All These Years",
+      "artist": "孙燕姿",
+      "has_synced": false,
+      "path": "select/11_Silent_All_These_Years_孙燕姿.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Three Million Years",
+      "artist": "Amber Liu",
+      "has_synced": true,
+      "path": "select/12_Three_Million_Years_Amber_Liu.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "5 Years",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/13_5_Years_Björk.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Five Years",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/14_Five_Years_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Five Years",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/15_Five_Years_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Five Years",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/16_Five_Years_David_Bowie.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "years",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_years_サカナクション.txt"
+    }
+  ]
+}
